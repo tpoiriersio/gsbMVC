@@ -1,0 +1,201 @@
+body
+{
+  margin:0;
+  padding:0;
+  background:url(https://i1.wp.com/livewallpaper.info//wp-content/uploads/2016/08/green-abstract-wallpaper12.jpg?ssl=1) no-repeat center fixed;
+  -webkit-background-size: cover; 
+  background-size: cover; 
+}
+
+a
+{
+  color :red;
+}
+
+
+.form-signin 
+{
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+  background-color: #f8f9fa;
+  margin-top: 40px;
+}
+
+#contenu 
+{
+  width:60%;
+  margin-left:auto;
+  margin-right:auto;
+  box-sizing:border-box;
+  padding:25px;
+  margin-top:25px;
+  display:block;
+  background-color: white;
+}
+
+.bd-placeholder-img 
+{
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) 
+{
+.bd-placeholder-img-lg 
+{
+  font-size: 3.5rem;
+}
+}
+
+.imgMarque
+{
+  height: 200px;
+  width: 200px;
+  margin-left: 5%;
+}
+
+.imageProduit
+{
+  height: 200px;
+  width: 200px;
+  margin-left: 5%;
+}
+
+#contenuPanier
+{
+  width:60%;
+  margin-left:auto;
+  margin-right:auto;
+  box-sizing:border-box;
+  padding:25px;
+  margin-top:25px;
+  display:block;
+  background-color: white;
+}
+
+.imageProduitPanier
+{
+  height: 180px;
+  width: 180px;
+  float: left;
+}
+
+.prixMedic
+{
+  float: right;
+  color: #B12704;
+  font-weight: bold;
+  display: block;
+  box-sizing: border-box;
+  position: relative;
+  margin-left: -300px;
+  margin-top: -30px;
+  margin-right: -400px;
+}
+
+.titreMedic
+{
+  display: block;
+  box-sizing: border-box;
+  float: right;
+  position: relative;
+  margin: auto;
+  font-weight: bold;
+}
+
+.nbproduit
+{
+  float: right;
+  margin-right: 200px;
+  margin-top: 50px;
+}
+
+.containerAll
+{
+  width:60%;
+  margin-left:auto;
+  margin-right:auto;
+  box-sizing:border-box;
+  padding:25px;
+  margin-top:25px;
+  display:block;
+  background-color: white;
+}
+
+.descriptionMedic
+{
+  display: block;
+  box-sizing: border-box;
+  float: right;
+  position: relative;
+  margin-top: -120px;
+  margin-left: 190px;
+}
+
+ .quantitePanier
+{
+  display: block;
+  box-sizing: border-box;
+  float: right;
+  position: relative;
+  margin-left: 915px;
+}
+
+.boutonSupprimer
+{
+  color: red;
+  position: relative;
+  margin-left: 700px;
+  margin-top: -45px;
+  background-color: transparent;
+}
+
+input.hidden 
+{
+  position: absolute;
+  left: -9999px;
+}
+
+#profile-image1 
+{
+  cursor: pointer;
+  width: 100px;
+  height: 100px;
+  border:2px solid green ;
+}
+.tital
+{ 
+  font-size:16px; font-weight:500;
+}
+
+.bot-border
+{ 
+  border-bottom:1px #f8f8f8 solid;  margin:5px 0  5px 0
+}  
+
+.recapitulatif
+{
+  background-color: white;
+    position: fixed;
+    display: block;
+    border-radius: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    border: solid green 2px;
+    padding: 5px;
+  top: 100px;
+  right: 20px;
+}
+
+.prixT
+{
+  color: #B12704;
+}
+
+
